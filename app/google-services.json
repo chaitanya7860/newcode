@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "536198844255",
+    "project_id": "fir-otp-d4a06",
+    "storage_bucket": "fir-otp-d4a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536198844255:android:9ca0979f8f167ae7baf0ea",
+        "android_client_info": {
+          "package_name": "com.example.chaitanya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536198844255-2quasq4pgela74so0avcndvrbcug0ac7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-V75tDH7MH1l9vbsTxQdrdU-zsNBYi90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536198844255-2quasq4pgela74so0avcndvrbcug0ac7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536198844255:android:2491b01213ff697abaf0ea",
+        "android_client_info": {
+          "package_name": "com.example.firebaseotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536198844255-2quasq4pgela74so0avcndvrbcug0ac7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-V75tDH7MH1l9vbsTxQdrdU-zsNBYi90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536198844255-2quasq4pgela74so0avcndvrbcug0ac7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
